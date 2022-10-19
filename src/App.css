@@ -1,0 +1,20 @@
+Nav {
+    font-size: 20px;
+}
+
+NavLink {
+    text-decoration: none;
+}
+
+.card-title {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.logo {
+    width: 150px;
+    height: 75px;
+    background-size: cover;
+    background-image: url('/public/assets/logo-mart.webp');
+}
